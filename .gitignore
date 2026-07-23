@@ -21,3 +21,5 @@ MDK-ARM/startup_stm32f103xb.lst
 *.lnp
 *.iex
 *.lst
+*.jdebug
+*.jdebug.user
