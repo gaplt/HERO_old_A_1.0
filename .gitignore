@@ -1,0 +1,23 @@
+# STM32CubeMX
+.mxproject
+
+# Keil MDK-ARM build outputs
+MDK-ARM/ins_task
+MDK-ARM/*.uvguix.*
+MDK-ARM/RTE/
+MDK-ARM/DebugConfig/
+MDK-ARM/startup_stm32f103xb.lst
+
+# Compiled objects
+*.o
+*.crf
+*.d
+*.dep
+*.axf
+*.hex
+*.map
+*.htm
+*.build_log.htm
+*.lnp
+*.iex
+*.lst
