@@ -1,8 +1,11 @@
+# Claude Code
+.claude/
+
 # STM32CubeMX
 .mxproject
 
 # Keil MDK-ARM build outputs
-MDK-ARM/ins_task
+MDK-ARM/ADC/
 MDK-ARM/*.uvguix.*
 MDK-ARM/RTE/
 MDK-ARM/DebugConfig/
@@ -21,5 +24,9 @@ MDK-ARM/startup_stm32f103xb.lst
 *.lnp
 *.iex
 *.lst
+*.csv
+*.m
+*.bin
+*.elf
 *.jdebug
 *.jdebug.user
