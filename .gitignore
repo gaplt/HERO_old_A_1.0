@@ -8,6 +8,7 @@
 MDK-ARM/ADC/
 MDK-ARM/*.uvguix.*
 MDK-ARM/RTE/
+MDK-ARM/.vscode/
 MDK-ARM/DebugConfig/
 MDK-ARM/startup_stm32f103xb.lst
 
@@ -34,3 +35,4 @@ MDK-ARM/startup_stm32f103xb.lst
 *.log.lock
 *.lock
 *.json
+
